@@ -18,5 +18,7 @@ Crear un sistema tipo asistencia (es una idea) que tenga registro y podamos entr
 * Undefined
 * Undefined
 * Undefined
+## Referencia
+* https://dayspedia.com/converter/?mc=2266&ct=8495,674&t=1709701240
 
 
