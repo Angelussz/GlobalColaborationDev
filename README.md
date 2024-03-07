@@ -10,7 +10,13 @@ Crear un sistema tipo asistencia (es una idea) que tenga registro y podamos entr
 
 **Mas propuestas, eleccion de la propuesta, ver en que aporta cada persona para hacer una app mas completa,etc. Lo trataremos en la primera reunión**
 
-# Se necesita 5 personas, plazo maximo viernes 08/03/2024
+# Se necesita 5 personas, plazo maximo viernes 08/03/2024, la cantidad de personas se va actualizar a medida de que se unan
 
+## Integrantes por el momento
+* Angelo
+* Kelvin
+* Undefined
+* Undefined
+* Undefined
 
 
