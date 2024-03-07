@@ -1,4 +1,4 @@
-![image](https://github.com/Angelussz/GlobalColaborationDev/assets/38799735/3c2d394e-3c14-474f-b5b9-8592a503de91)# GlobalColaborationDev
+# GlobalColaborationDev
 
 Este es un proyecto parala comunidad X, la cual veo que vamos a trabajar con varias personas de diferentes paises, lo cual para que podamos realizar proyectos futuros, lo que se va hacer es una calculadora de paisea asi saber nuestros horarios de trabajo y podamos ayudar a la comunidad con eso en especial a los que hacemos colaboraciones a lo largo de todos los paises 
 
