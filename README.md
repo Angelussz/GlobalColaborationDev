@@ -15,7 +15,7 @@ Crear un sistema tipo asistencia (es una idea) que tenga registro y podamos entr
 ## Integrantes por el momento
 * Angelo
 * Kelvin
-* Undefined
+* Alan
 * Undefined
 * Undefined
 ## Referencia
