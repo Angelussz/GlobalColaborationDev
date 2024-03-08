@@ -17,7 +17,6 @@ Crear un sistema tipo asistencia (es una idea) que tenga registro y podamos entr
 * Kelvin
 * Alan
 * ZallioPablo
-* 5t01c0X77
 * Luis4nge1
 ## Referencia
 * https://dayspedia.com/converter/?mc=2266&ct=8495,674&t=1709701240
